@@ -1,0 +1,5 @@
+{
+  "entrypoint": "${project.group}.DataDependencyExtension",
+  "name": "${project.name}",
+  "version": "${project.version}"
+}
