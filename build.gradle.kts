@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
     compileOnly("com.github.Minestom:Minestom:ba73c742f4")
-    implementation("org.redisson:redisson:3.17.3")
+    implementation("org.redisson:redisson:3.17.4")
     implementation("org.litote.kmongo:kmongo-coroutine-serialization:4.6.1")
 }
 
