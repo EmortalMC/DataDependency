@@ -1,5 +1,5 @@
 {
-  "entrypoint": "${project.group}.DataDependencyExtension",
+  "entrypoint": "${project.group}.MinestomExtension",
   "name": "${project.name}",
   "version": "${project.version}"
 }
